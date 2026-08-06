@@ -4,11 +4,12 @@
 
 ## 最新版本
 
-- [下载一眼账本 v0.5 APK](https://github.com/Sherlocksuper/yiyan-ledger/raw/main/releases/yiyan-ledger-v0.5.apk)
+- [下载一眼账本 v0.6 APK](https://github.com/Sherlocksuper/yiyan-ledger/raw/main/releases/yiyan-ledger-v0.6.apk)
 - 支持微信、支付宝、招商银行支付结果页识别
 - 支持微信、支付宝、招商银行及部分银行卡支付通知识别
 - 高置信度结果自动入账，证据不足的记录进入“待确认”
 - 仅识别明确的货币金额和支付结果；普通页面输入 `0.01` 不会记账
+- 修复部分手机上微信转账结果页位于 `LauncherUI` 时未自动入账的问题
 - 桌面小组件显示本月支出
 
 安装新版会保留原有账单。Android 如提示禁止安装未知应用，请为当前浏览器或文件管理器临时开启安装权限。
